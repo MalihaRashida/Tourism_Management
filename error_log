@@ -1,2 +1,0 @@
-[31-Mar-2019 06:09:57 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/toktak/tourist.toktakprogramming.org/phpfiles/login.inc.php on line 12
-[31-Mar-2019 06:09:57 America/New_York] PHP Fatal error:  Call to undefined function alert() in /home/toktak/tourist.toktakprogramming.org/phpfiles/login.inc.php on line 18
