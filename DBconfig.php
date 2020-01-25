@@ -5,10 +5,10 @@
 $HostName = "localhost";
  
 //Define your database name here.
-$DatabaseName = "toktak_Hotel";
+$DatabaseName = "Project_Hotel";
  
 //Define your database username here.
-$HostUser = "toktak_mahi";
+$HostUser = "SE_mahi";
  
 //Define your database password here.
 $HostPass = "mahi";
