@@ -8,10 +8,10 @@ $HostName = "localhost";
 $DatabaseName = "toktak_Hotel";
  
 //Define your database username here.
-$HostUser = "toktak_Moinul";
+$HostUser = "toktak_mahi";
  
 //Define your database password here.
-$HostPass = "Moinul";
+$HostPass = "mahi";
 $conn = mysqli_connect($HostName,$HostUser,$HostPass,$DatabaseName);
  
 ?>
